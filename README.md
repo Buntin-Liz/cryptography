@@ -1,7 +1,7 @@
 # cryptography
 ## 暗号理論提出ファイル
 
-プログラム
+プログラム : crypt.py
 
 実行結果
 
